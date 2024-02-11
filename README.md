@@ -1,5 +1,5 @@
 ## 📞 Contact 📞
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwein307@gmail.com)](mailto:jwein307@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwein307@korea.ac.kr)](mailto:jwein307@korea.ac.kr)
 
 ### Hi there 👋
 
