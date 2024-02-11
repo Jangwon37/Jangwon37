@@ -1,4 +1,13 @@
 ### Hi there 👋
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="jwein307@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+
+
 <!--
 **Jangwon37/Jangwon37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
